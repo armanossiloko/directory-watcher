@@ -1,5 +1,4 @@
 <p align="center">
-  <a title="NuGet download" target="_blank" href="https://www.nuget.org/packages/Directory.Watcher"><img src="https://img.shields.io/nuget/dt/Directory.Watcher"></a>
   <a title="NuGet download" target="_blank" href="https://www.nuget.org/packages/Directory.Watcher"><img alt="NuGet" src="https://img.shields.io/nuget/v/Directory.Watcher"></a>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/armanossiloko/directory-watcher">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/armanossiloko/directory-watcher">
@@ -72,6 +71,9 @@ dotnet tool uninstall --global Directory.Watcher
 ```bash
 # Retrieve auto-help from the tool
 Directory.Watcher watch --help
+
+# Watch a directory defined in `DIRECTORY_WATCHER_DIRECTORIES` env variable
+Directory.Watcher watch ""
 
 # Watch a directory with auto-extraction
 Directory.Watcher watch /downloads --auto-extract --auto-extract-directory=/projects/my-project
