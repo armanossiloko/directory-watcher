@@ -1,3 +1,11 @@
+<p align="center">
+  <a title="NuGet download" target="_blank" href="https://www.nuget.org/packages/Directory.Watcher"><img src="https://img.shields.io/nuget/dt/Directory.Watcher"></a>
+  <a title="NuGet download" target="_blank" href="https://www.nuget.org/packages/Directory.Watcher"><img alt="NuGet" src="https://img.shields.io/nuget/v/Directory.Watcher"></a>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/armanossiloko/directory-watcher">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/armanossiloko/directory-watcher">
+  <a title="MIT License" target="_blank" href="https://licenses.nuget.org/MIT"><img src="https://img.shields.io/github/license/armanossiloko/directory-watcher"></a>
+</p>
+
 # Directory Watcher
 
 ## Backstory

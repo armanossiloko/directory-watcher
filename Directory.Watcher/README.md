@@ -17,4 +17,4 @@ Directory.Watcher watch /downloads --auto-extract --overwrite-files --auto-extra
 - `--overwrite-files`: Automatically overwrite existing files, if found
 - `--auto-extract-directory`: Defines the extraction destination
 
-Find more info on GitHub: https://github.com/armanossiloko/zip-autoDIRECTORY_WATCHER_DIRECTORIES
+Find more info on GitHub: https://github.com/armanossiloko/directory-watcher
